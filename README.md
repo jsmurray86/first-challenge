@@ -21,3 +21,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+WHEN I click on the "Search Engine Optimization" link in the header
+THEN I am taken to the correct section of the website. 
