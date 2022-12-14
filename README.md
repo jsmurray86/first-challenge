@@ -23,3 +23,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 WHEN I click on the "Search Engine Optimization" link in the header
 THEN I am taken to the correct section of the website. 
+WHEN I look at the CSS style sheet
+THEN I see concise, efficient class definitions 
